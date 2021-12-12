@@ -20,12 +20,21 @@
 <br />
 <br />
 
-### Connect with me:
+## &#x1f4c8; GitHub Stats
 
-[<img align="left" alt="vibhorchaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vibhorchaudhary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vibhorchaudhary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<a href="https://github.com/roufsyed/roufsyed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/roufsyed/roufsyed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roufsyed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rouf's GitHub Stats" />
+</a>
 
-<br />
+<a href="https://github.com/roufsyed/AlphaSecure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roufsyed&repo=AlphaSecure&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/roufsyed/scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roufsyed&repo=scripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
