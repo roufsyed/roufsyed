@@ -2,9 +2,7 @@
   <img src="https://user-images.githubusercontent.com/51513765/177053181-ea9f7093-d55e-4cc2-adc8-f411ec142424.gif" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<p align="center">
   [![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logo=resume&logoColor=black)](https://drive.google.com/file/d/1uuWYeCfFvsUIsSPNuycuoDUkGdkcznTq/view)
-</p>
 
 
 ### Languages and Tools that I know
