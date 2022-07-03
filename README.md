@@ -24,8 +24,7 @@
 ---
 ### Connect with me 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/roufsyed)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/roufDev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roufsyed/)
-[![Twitter Badge](https://img.shields.io/badge/-Rouf_Syed-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=[https://twitter.com/roufDev](https://twitter.com/roufDev))]([https://twitter.com/Isha_1321](https://twitter.com/roufDev))
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/roufDev)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roufsyed99@gmail.com)
 
