@@ -29,6 +29,9 @@
 </a> 
 
 ---
+
+![Profile views](https://gpvc.arturio.dev/roufsyed)  <img src="https://img.shields.io/github/followers/roufsyed?label=Follow" style=" float:left, margin-right:10px" />
+
 ### Connect with me
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/roufsyed)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roufsyed/)
