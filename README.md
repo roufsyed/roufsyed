@@ -1,6 +1,3 @@
-### Hello there! 👋
-I am a Programmer.
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51513765/177050025-65e425ba-2ec0-4fbf-8820-b47a9b9afa38.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
