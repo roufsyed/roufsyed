@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51513765/177050025-65e425ba-2ec0-4fbf-8820-b47a9b9afa38.png" width="100%" title="Intro Card" alt="Intro Card">
+  ![rouf_banner](https://user-images.githubusercontent.com/51513765/177053126-6f8da971-a68a-4a98-ad50-a3d46c35f2ed.gif)
 </p>
 
 ### Languages and Tools
