@@ -9,9 +9,15 @@
 #### :muscle: Things I am challenging myself with:
 - System Design (High Level Design)
 - React Native
-<br />
-## &#x1f4c8; GitHub Stats
+<br/>
 
+##### Some of my favorite open source projects
+
+[![Signal](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)]([https://github.com/gorhill/uBlock](https://github.com/signalapp/Signal-Android)
+[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
+[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+## &#x1f4c8; GitHub Stats
+<br/>
 <a href="https://github.com/roufsyed/roufsyed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
