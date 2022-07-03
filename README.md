@@ -11,7 +11,7 @@
 - React Native
 ---
 ### Some of my favorite open source projects
-[![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=tor&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) [![uBlock Origin](https://img.shields.io/badge/-uBlock&#ffeffe;Origin-444444?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
+[![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=tor&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=7E4798)](https://brave.com/)
 ---
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/roufsyed/roufsyed">
