@@ -13,7 +13,7 @@
 
 ##### Some of my favorite open source projects
 
-[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
+[![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) [![Signal]([https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798](https://img.shields.io/badge/Signal-Secure%20communication-brightgreen))]([https://www.torproject.org/](https://signal.org/))
 
 ## &#x1f4c8; GitHub Stats
 <br/>
