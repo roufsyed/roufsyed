@@ -20,6 +20,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=roufsyed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rouf's GitHub Stats" />
 </a> 
 
+<div align="center">
+
+[![HitCount](http://hits.dwyl.com/roufsyed/soufsyed.svg)](http://hits.dwyl.com/roufsyed/roufsyed)
+
 ### Connect with me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roufsyed/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/roufDev)
