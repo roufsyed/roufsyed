@@ -11,6 +11,7 @@
 
 ### Some of my favorite open source projects
 [![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=tor&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/)
+[![Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logo=resume&logoColor=black)](https://drive.google.com/file/d/1uuWYeCfFvsUIsSPNuycuoDUkGdkcznTq/view)
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/roufsyed/roufsyed">
