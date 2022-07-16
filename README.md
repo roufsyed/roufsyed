@@ -10,7 +10,7 @@
 - React Native
 
 ### Some of my favorite open source projects
-[![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-FFFFFF?style=flat&logo=Neovim&logoColor=FFFFFF)](https://neovim.io/)
+[![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
 
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/roufsyed/roufsyed">
