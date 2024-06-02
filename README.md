@@ -9,24 +9,8 @@
 <img src="https://img.shields.io/badge/AWS-Cloud%20-orange"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
 ### Things I am challenging myself with
-- System Design
-- KMP
+- System Design, figuring out how things work internally
+- KMP & CMP
 
 ### Some of my favorite open source projects
 [![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
-
-### &#x1f4c8; GitHub Stats
-<a href="https://github.com/roufsyed/roufsyed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/roufsyed/roufsyed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roufsyed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rouf's GitHub Stats" />
-</a> 
-
-<div align="center">
-  
-### Connect with me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roufsyed/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/roufDev)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:roufsyed99@gmail.com)
-
