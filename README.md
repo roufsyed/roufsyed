@@ -10,7 +10,7 @@
 
 ### Things I am challenging myself with
 - System Design, figuring out how things work internally
-- KMP & CMP
+- Kotlin Multiplatform & Compose Multiplatform
 
 ### Some of my favorite open source projects
 [![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
