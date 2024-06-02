@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51513765/177053181-ea9f7093-d55e-4cc2-adc8-f411ec142424.gif" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-
 <div align="center">
+
 ### Languages and Tools that I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="http://img.shields.io/badge/-Kotlin-BC00FF?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <br>
 <img src = "https://img.shields.io/badge/Android-Native-green"> <img src="http://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="http://img.shields.io/badge/Flutter-0074FF?style=flat&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <br>
