@@ -15,11 +15,7 @@
 [![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
 
 ### GitHub Statistics
-<div>
-  <a align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=roufsyed&rank_icon=github&border_radius=10&theme=dark&show_icons=false&line_height=22&include_all_commits=true" />
-  </a>
-  <a align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&theme=dark&border_radius=10&hide_progress=true&langs_count=8&layout=compact" />
-  </a>
+<div style="display: flex;">
+  <a><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=roufsyed&rank_icon=github&border_radius=10&theme=dark&show_icons=false&line_height=20&include_all_commits=true" /></a>
+  <a><img width="33%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&theme=dark&border_radius=10&hide_progress=true&langs_count=8&layout=compact" /></a>
 </div>
