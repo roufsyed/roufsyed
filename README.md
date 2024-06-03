@@ -16,10 +16,10 @@
 
 ### GitHub Statistics
 <div align=start>
-  <a>
+  <a align=center>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=roufsyed&rank_icon=github&border_radius=10&theme=dark&show_icons=false&line_height=22&include_all_commits=true" />
   </a>
-  <a>
+  <a align=center>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&theme=dark&border_radius=10&hide_progress=true&langs_count=8&layout=compact" />
   </a>
 </div>
