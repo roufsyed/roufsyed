@@ -14,3 +14,13 @@
 
 ### Some of my favorite open source projects
 [![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
+
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
