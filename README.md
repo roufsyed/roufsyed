@@ -15,20 +15,10 @@
 ### Some of my favorite open source projects
 [![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Brave](https://img.shields.io/badge/-Brave-red?style=flat&logo=brave&logoColor=white)](https://brave.com/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
 
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/roufsyed/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/roufsyed/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/roufsyed/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+### &#x1f4c8; GitHub Stats
+<a href="https://github.com/roufsyed/roufsyed">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3](https://github-readme-stats.vercel.app/api?username=roufsyed&rank_icon=github&hide=&border_radius=10&hide_border=false&theme=tokyonight&show_icons=false&line_height=22&count_private=true&include_all_commits=true%22)" />
 </a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
-
-</div>
+<a href="https://github.com/roufsyed/roufsyed">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api?username=roufsyed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21](https://github-readme-stats.vercel.app/api/top-langs/?username=roufsyed&theme=tokyonight&border_radius=10&hide_progress=true&langs_count=8&layout=compact)" alt="Rouf's GitHub Stats" />
+</a> 
