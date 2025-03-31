@@ -3,7 +3,7 @@
 </p>
 
 ### Proficient In
-<img src = "https://img.shields.io/badge/Android-Native-green"> <img src="http://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="http://img.shields.io/badge/Flutter-0074FF?style=flat&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src = "https://img.shields.io/badge/Android-Native-green"> <img src="http://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/AWS-Cloud%20-orange"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 
