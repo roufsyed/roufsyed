@@ -1,16 +1,13 @@
-<!-- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/51513765/177053181-ea9f7093-d55e-4cc2-adc8-f411ec142424.gif" width="100%" title="Intro Card" alt="Intro Card">
-</p>
---> 
-### Proficient In
-<img src = "https://img.shields.io/badge/Android-Native-green"> <img src="http://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/AWS-Cloud%20-orange"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
+Android and backend engineer from Mumbai, working on card payment systems: ISO 8583, mPOS terminals, payment SDK. I care most about security, edge cases, and moving money correctly.
 
-### Challenging Myself With
-1. System Design: Figuring out how things work internally
-2. Kotlin Multiplatform & Compose Multiplatform
+**Tech Stack:** Java, Kotlin, Spring Boot, Go, GraphQL, MySQL, PosgreSQL, MongoDB, AWS, Firebase, Jetpack Compose.
 
-### Favorite Open Source Projects
-[![Signal](https://img.shields.io/badge/-Signal-blue?style=flat&logo=signal&logoColor=white)](https://signal.org/) [![Tor](https://img.shields.io/badge/-Tor-purple?style=flat&logo=tor-browser&logoColor=7E4798)](https://www.torproject.org/) [![Neovim](https://img.shields.io/badge/-Nvim-4DB33D?style=flat&logo=Neovim&logoColor=white)](https://neovim.io/)
+**Open source projects**
+
+- **[1Key](https://github.com/roufsyed/1Key)**: local-first password manager for Android, with no `INTERNET` permission. On [F-Droid](https://f-droid.org/packages/com.roufsyed.onekey/).
+- **[Slate](https://github.com/roufsyed/Slate-Minimal-Launcher)**: text-only Android launcher. On [F-Droid](https://f-droid.org/packages/com.slate.launcher/).
+- **[BP Tools](https://github.com/roufsyed/BankingAndPaymentsTool)**: desktop toolkit for EMV, ISO 8583 and payment cryptography.
+- **[Sehat](https://github.com/roufsyed/Sehat)**: on-device health tracker for Android.
+
+
+**Favourite open source projects:** [Signal](https://signal.org/), [Tor](https://www.torproject.org/), [Neovim](https://neovim.io/).
